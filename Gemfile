@@ -33,7 +33,6 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'rack-cors'
 
 # Additional gems
-gem 'knock'
 gem 'figaro'
 gem 'faker'
 
